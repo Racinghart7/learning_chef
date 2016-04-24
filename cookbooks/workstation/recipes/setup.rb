@@ -3,9 +3,6 @@
 # Recipe:: setup.rb
 #
 # Copyright (c) 2016 The Authors, All Rights Reserved.
-package 'cowsay' do
-	  action :install
-end
 
 package 'tree' do
 	  action :install
